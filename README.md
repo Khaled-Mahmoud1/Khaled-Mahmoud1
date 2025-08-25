@@ -49,7 +49,8 @@
 
 ### 🔥 GitHub Streak  
 
-<img src="https://streak-stats.demolab.com?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=true" width="70%"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=true" width="70%"/>
+  
 
 ---
 
