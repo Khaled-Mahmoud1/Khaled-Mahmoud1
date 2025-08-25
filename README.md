@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Khaled Mahmoud  
 
-🎓 Student at **Faculty of Management Technology and Information Systems (MTIS)**  
+🎓 Student at the **Faculty of Management Technology and Information Systems (MTIS)**  
 📖 Department: **Information Technology Management (ITM)**  
 💻 Passionate about **Programming, Networks, and Automation**  
 🚀 Currently learning **C++, Java, Python & Kotlin**  
