@@ -47,14 +47,6 @@
 
 ---
 
-### 🔥 GitHub Streak  
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-  
-
----
-
 ### 📈 Contribution Graph  
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Mahmoud1&theme=tokyo-night&hide_border=true" width="100%"/>  
