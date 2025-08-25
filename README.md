@@ -1,12 +1,12 @@
 <div align="center">
   
-<h1 align="center">👋 Hello Coders!, I'm Khaled. </h1>
+<h1 align="center">👋 Hello Coders!, I'm Khaled Mahmoud. </h1>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="50%"/>  
 
 ---
 
-# 👋 Hi, I'm Khaled Mahmoud  
+  
 
 🎓 Student at the **Faculty of Management Technology and Information Systems (MTIS)**  
 📖 Department: **Information Technology Management (ITM)**  
