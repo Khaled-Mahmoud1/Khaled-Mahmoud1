@@ -49,7 +49,7 @@
 
 ### 🔥 GitHub Streak  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   
 
