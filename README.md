@@ -39,10 +39,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud1&layout=compact&theme=tokyonight" width="45%" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight&cache_seconds=86400)
 
 
 ---
