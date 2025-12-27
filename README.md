@@ -39,12 +39,12 @@
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight" width="48%"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud1&layout=compact&theme=tokyonight" width="48%"/>  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud1&layout=compact&theme=tokyonight)
+
 
 ---
 
