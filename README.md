@@ -48,7 +48,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=true" width="48%" />
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Khaled-Mahmoud1)](https://git.io/streak-stats)
 </p>
 
 ---
