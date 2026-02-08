@@ -1,54 +1,69 @@
 <div align="center">
-  
-<h1 align="center">👋 Hello Coders!, I'm Khaled Mahmoud. </h1>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="60%"/>  
+<img src="https://raw.githubusercontent.com/rafaballerini/rafaballerini/main/images/profile-banner.png" width="100%" />
+
+# 👋 Hello Coders, I'm Khaled Mahmoud  
+
+🎓 **Student at Faculty of Management Technology & Information Systems (MTIS)**  
+📚 **Department:** Information Technology Management (ITM)  
+
+💡 Passionate about **Programming, Networks, Automation & Mobile Development**  
+🚀 Currently learning **C++, Java, Python, Kotlin, Dart & Flutter**  
+🛠️ Exploring **Docker, Git, n8n, Cisco Packet Tracer, Android Studio & Linux**
+
+</div>
 
 ---
 
-  
+## 🚀 About Me
 
-🎓 Student at the **Faculty of Management Technology and Information Systems (MTIS)**  
-📖 Department: **Information Technology Management (ITM)**  
-💻 Passionate about **Programming, Networks, and Automation**  
-🚀 Currently learning **C++, Java, Python & Kotlin**  
-⚡ Exploring tools like **n8n, Docker, Git, Cisco Packet Tracer, Android Studio**  
+- 👨‍💻 Interested in **Mobile App Development & Automation**
+- 🌐 Strong interest in **Networking & IT Systems**
+- 📈 Always improving **Problem Solving & Logical Thinking**
+- 🔥 Believe in *Learning by Building Projects*
 
-</div>
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,dart" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
+</p>
+
+### 🌐 Networking & Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=true" width="49%" />
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Mahmoud1&theme=tokyo-night&hide_border=true" />
 
 ---
 
 <div align="center">
 
-### 🛠️ Tools & Languages I Use  
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4C89?style=flat&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-
-</div>
-
----
-
-### 📈 Contribution Graph  
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Mahmoud1&theme=tokyo-night&hide_border=true" width="100%"/>  
-
-</div>
-
----
-
-<div align="center">
-
-✨ *"Always learning, always building."* ✨  
+✨ **"Always learning. Always building."** ✨  
 
 </div>
