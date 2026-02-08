@@ -1,5 +1,4 @@
 <div align="center">
-# 👋 Hello Coders, I'm Khaled Mahmoud
   
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="65%" />
 
