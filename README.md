@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="65%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" />
 
 # 👋 Hello Coders, I'm Khaled Mahmoud  
 
@@ -40,6 +40,14 @@
 ### ⚙️ Tools & Technologies
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
+</p>
+
+---
+
+## 🚀 GitHub Activity 🚀
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Khaled-Mahmoud1&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
