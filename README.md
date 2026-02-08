@@ -1,70 +1,60 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="65%" />
-
-# 👋 Hello Coders, I'm Khaled Mahmoud  
-
-🎓 **Student at Faculty of Management Technology & Information Systems (MTIS)**  
-📚 **Department:** Information Technology Management (ITM)  
-
-💡 Passionate about **Programming, Mobile Development & Automation**  
-🚀 Currently learning **C++, Java, Python, Kotlin, Dart & Flutter**  
-🛠️ Exploring **Docker, Git, Linux & Android Studio**
-
-</div>
+<h1 align="center">👋 Hey, I'm Khaled Mahmoud</h1>
+<h3 align="center">Flutter & Mobile Developer | ITM Student</h3>
 
 ---
 
-## 🚀 About Me
+## 🌌 Welcome to My GitHub Universe
 
-- 📱 Interested in **Mobile App Development (Flutter)**
-- 🌐 Strong interest in **IT Systems & Networking Concepts**
-- 🤖 Curious about **Automation & Dev Tools**
-- 🧠 Always improving **Problem Solving & Logical Thinking**
-- 🔥 Believe in *Learning by Building Projects*
+- 🚀 Building mobile apps with Flutter
+- 📱 Interested in Android & Cross-Platform Development
+- 🧠 Improving problem solving every day
+- 🤝 Open to collaboration & learning
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧑‍💻 About Me
 
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,dart" />
-</p>
+🎓 Faculty of Management Technology & Information Systems (MTIS)  
+📚 Information Technology Management (ITM)  
+💡 Programming • Mobile Development • Automation  
 
-### 📱 Mobile Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
-</p>
+---
 
-### ⚙️ Tools & Technologies
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,java,kotlin,python,cpp" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,androidstudio,figma" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight&hide_border=true"
-    width="60%"
-  />
-</p>
+<table align="center">
+<tr>
+<td>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight&hide_border=true" />
 
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud1&layout=compact&theme=tokyonight&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Mahmoud1&theme=tokyo-night&hide_border=true" />
 
 ---
 
-<div align="center">
-
-✨ **"Always learning. Always building."** ✨  
-
-</div>
+<p align="center">
+✨ <b>Always learning. Always building.</b> ✨
+</p>
