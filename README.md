@@ -29,17 +29,39 @@
 
 ### 💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,kotlin,dart" />
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
 </p>
+
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=android&theme=dark" />
 </p>
+
+### 📚 Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
+</p>
+
 
 ### ⚙️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
 </p>
 
 ---
