@@ -65,6 +65,7 @@
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
   <img src="https://skillicons.dev/icons?i=idea&theme=dark" />
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
 </p>
 
