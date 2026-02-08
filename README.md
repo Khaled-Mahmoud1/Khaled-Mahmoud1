@@ -59,6 +59,7 @@
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
   <img src="https://skillicons.dev/icons?i=idea&theme=dark" />
   <img src="https://skillicons.dev/icons?i=pycharm&theme=dark" />
   <img src="https://skillicons.dev/icons?i=notion&theme=dark" />
