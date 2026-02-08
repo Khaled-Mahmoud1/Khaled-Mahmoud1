@@ -1,8 +1,10 @@
 <div align="center">
+
+# 👋 Hello Coders, I'm Khaled Mahmoud  
   
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" />
 
-# 👋 Hello Coders, I'm Khaled Mahmoud  
+---
 
 🎓 **Student at Faculty of Management Technology & Information Systems (MTIS)**  
 📚 **Department:** Information Technology Management (ITM)  
