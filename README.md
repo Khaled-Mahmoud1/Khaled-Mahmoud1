@@ -39,9 +39,9 @@
 
 ### 📱 Mobile Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=android&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,android&theme=dark" />
 </p>
+
 
 ### 📚 Databases
 <p align="center">
