@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="60%" />
 
 # 👋 Hello Coders, I'm Khaled Mahmoud  
 
 🎓 **Student at Faculty of Management Technology & Information Systems (MTIS)**  
 📚 **Department:** Information Technology Management (ITM)  
 
-💡 Passionate about **Programming, Networks, Automation & Mobile Development**  
+💡 Passionate about **Programming, Mobile Development & Automation**  
 🚀 Currently learning **C++, Java, Python, Kotlin, Dart & Flutter**  
-🛠️ Exploring **Docker, Git, Linux, Android Studio & Networking Tools**
+🛠️ Exploring **Docker, Git, Linux & Android Studio**
 
 </div>
 
@@ -18,7 +18,7 @@
 ## 🚀 About Me
 
 - 📱 Interested in **Mobile App Development (Flutter)**
-- 🌐 Strong interest in **Networking & IT Systems**
+- 🌐 Strong interest in **IT Systems & Networking Concepts**
 - 🤖 Curious about **Automation & Dev Tools**
 - 🧠 Always improving **Problem Solving & Logical Thinking**
 - 🔥 Believe in *Learning by Building Projects*
@@ -42,14 +42,9 @@
   <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,figma" />
 </p>
 
-### 🌐 Networking & Automation
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cisco" />
-</p>
-
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
