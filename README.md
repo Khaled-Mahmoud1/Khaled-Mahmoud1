@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hello Coders, I'm Khaled Mahmoud  
-
 <div align="center">
 
 <hr style="border: 1px solid #00FF99; width: 60%;"/>
