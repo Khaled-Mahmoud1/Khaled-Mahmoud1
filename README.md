@@ -28,6 +28,12 @@
 
 ---
 
+- 💡 Passionate about **Programming, Networks, Automation & Mobile Development**  
+- 🚀 Currently learning **C++, Java, Python, Kotlin, Dart & Flutter**  
+- 🛠️ Exploring **Docker, Git, Linux, Android Studio & Networking Tools**
+
+---
+
 ## 🚀 About Me
 
 - 📱 Focused on **Mobile App Development (Flutter)**
