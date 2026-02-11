@@ -29,7 +29,7 @@
 
 ---
 
-# 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
 <p align="center">
@@ -40,6 +40,7 @@
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
 </p>
 
+
 ### 📱 Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
@@ -47,12 +48,15 @@
   <img src="https://skillicons.dev/icons?i=android&theme=dark" />
 </p>
 
+
+
 ### 📚 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
 </p>
+
 
 ### ⚙️ Tools & Technologies
 <p align="center">
@@ -71,24 +75,17 @@
 
 ---
 
-# 📊 GitHub Stats
+## 🚀 GitHub Activity 🚀
 
-<div align="center">
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=Khaled-Mahmoud1&theme=github-dark-blue&border_radius=5&card_width=600&card_height=220" 
+      alt="GitHub Streak" 
+    />
+  </a>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Khaled-Mahmoud1&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud1&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
