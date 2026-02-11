@@ -2,7 +2,9 @@
 
 # 👋 Hello Coders, I'm Khaled Mahmoud  
 
-<img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=25&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Flutter+Developer;Passionate+About+Networking+%26+Automation;Always+Building+%F0%9F%9A%80" />
+# 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=25&center=true&vCenter=true&width=700&lines=IT+Student;Linux+%26+Networking+Enthusiast;Flutter+Developer;Building+The+Future+%F0%9F%9A%80" />
+#
 
 <br/>
 
