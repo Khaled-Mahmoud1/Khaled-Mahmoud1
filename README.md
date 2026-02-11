@@ -24,25 +24,29 @@
 ## 🎓 Education
 
 - 🎓 **Faculty of Management Technology & Information Systems (MTIS)**
-- 📚 **Department:** Information Technology Management (ITM)
-
----
-
-- 💡 Passionate about **Programming, Networks, Automation & Mobile Development**  
-- 🚀 Currently learning **C++, Java, Python, Kotlin, Dart & Flutter**  
-- 🛠️ Exploring **Docker, Git, Linux, Android Studio & Networking Tools**
+- 🖥️ **Major:** Information Technology Management (ITM)
+- 🔍 Focused on integrating **Technology, Systems & IT Infrastructure**
 
 ---
 
 ## 🚀 About Me
 
-- 📱 Focused on **Mobile App Development (Flutter)**
-- 🌐 Strong interest in **Networking & IT Systems**
-- 🤖 Curious about **Automation & DevOps Tools**
-- 🧠 Improving **Problem Solving & Data Structures**
+- 💡 Passionate about **Software Development & IT Systems**
+- 🧠 Strengthening **Data Structures & Problem Solving Skills**
+- ⚙️ Exploring **Automation, DevOps & Modern Development Tools**
 - 🔥 Believe in *Learning by Building Real Projects*
 
 ---
+
+## 🎯 Professional Focus
+
+- 📱 Developing **Mobile Applications using Flutter**
+- 🌐 Interested in **Networking & IT Infrastructure**
+- 🐧 Working within **Linux-based Development Environments**
+- 🚀 Continuously improving **Technical & Logical Skills**
+
+---
+
 
 ## 🛠️ Tech Stack & Tools
 
