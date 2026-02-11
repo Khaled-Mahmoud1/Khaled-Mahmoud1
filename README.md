@@ -1,35 +1,35 @@
 <div align="center">
-  
----
-# 👋 Hello Coders, I'm Khaled Mahmoud 
 
-  
+# 👋 Hello Coders, I'm Khaled Mahmoud  
+
+<img src="https://readme-typing-svg.herokuapp.com?color=4FC3F7&size=25&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Flutter+Developer;Passionate+About+Networking+%26+Automation;Always+Building+%F0%9F%9A%80" />
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="70%" />
-
----
-
-🎓 **Student at Faculty of Management Technology & Information Systems (MTIS)**  
-📚 **Department:** Information Technology Management (ITM)  
-
-💡 Passionate about **Programming, Networks, Automation & Mobile Development**  
-🚀 Currently learning **C++, Java, Python, Kotlin, Dart & Flutter**  
-🛠️ Exploring **Docker, Git, Linux, Android Studio & Networking Tools**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🎓 Education
 
-- 📱 Interested in **Mobile App Development (Flutter)**
-- 🌐 Strong interest in **Networking & IT Systems**
-- 🤖 Curious about **Automation & Dev Tools**
-- 🧠 Always improving **Problem Solving & Logical Thinking**
-- 🔥 Believe in *Learning by Building Projects*
+- 🎓 **Faculty of Management Technology & Information Systems (MTIS)**
+- 📚 **Department:** Information Technology Management (ITM)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🚀 About Me
+
+- 📱 Focused on **Mobile App Development (Flutter)**
+- 🌐 Strong interest in **Networking & IT Systems**
+- 🤖 Curious about **Automation & DevOps Tools**
+- 🧠 Improving **Problem Solving & Data Structures**
+- 🔥 Believe in *Learning by Building Real Projects*
+
+---
+
+# 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
 <p align="center">
@@ -40,7 +40,6 @@
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
 </p>
 
-
 ### 📱 Mobile Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
@@ -48,15 +47,12 @@
   <img src="https://skillicons.dev/icons?i=android&theme=dark" />
 </p>
 
-
-
 ### 📚 Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
   <img src="https://skillicons.dev/icons?i=firebase&theme=dark" />
 </p>
-
 
 ### ⚙️ Tools & Technologies
 <p align="center">
@@ -75,28 +71,35 @@
 
 ---
 
-## 🚀 GitHub Activity 🚀
+# 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Khaled-Mahmoud1&theme=github-dark-blue&border_radius=5&card_width=600&card_height=220" 
-      alt="GitHub Streak" 
-    />
-  </a>
-</p>
+<div align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Khaled-Mahmoud1&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud1&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Mahmoud1&theme=tokyo-night&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Khaled-Mahmoud1&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
 <div align="center">
 
-✨ **"Always learning. Always building."** ✨  
+### ✨ "Always Learning. Always Building." ✨
 
 </div>
