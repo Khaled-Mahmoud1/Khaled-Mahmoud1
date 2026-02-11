@@ -76,7 +76,9 @@
 ---
 
 ## 🚀 GitHub Activity 🚀
+
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Khaled-Mahmoud1&theme=monokai-metallian&border_radius=5" alt="GitHub Streak" /></a>
+
 ---
 
 ## 📈 Contribution Graph
