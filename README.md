@@ -1,19 +1,15 @@
 <div align="center">
 
-# 👋 Hello Coders, I'm Khaled Mahmoud  
+<h1 align="center" style="color:#00FF99; font-weight:900;">
+  👋 Hello Coders, I'm Khaled Mahmoud
+</h1>
 <div align="center">
 
-<div align="center">
+<hr style="border: 1px solid #00FF99; width: 65%;"/>
 
-<div style="background-color:#0D1117; 
-            padding:25px; 
-            border-radius:12px; 
-            border:2px solid #00FF99; 
-            width:85%;">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=38&center=true&vCenter=true&width=900&lines=🎓+IT+Student;💻+Future+Software+Engineer;📱+Flutter+%26+Mobile+Developer;🌐+Networking+%26+🐧+Linux+Enthusiast;🧠+Problem+Solver+%7C+🚀+Always+Building" />
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=40&font=Fira+Code&center=true&vCenter=true&width=900&lines=🎓+IT+Student;💻+Future+Software+Engineer;📱+Flutter+%26+Mobile+Developer;🌐+Networking+%26+🐧+Linux+Enthusiast;🧠+Problem+Solver+%7C+🚀+Always+Building" />
-
-</div>
+<hr style="border: 1px solid #00FF99; width: 65%;"/>
 
 </div>
 
