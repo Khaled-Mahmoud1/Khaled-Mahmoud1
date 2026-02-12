@@ -3,11 +3,11 @@
 # 👋 Hello Coders, I'm Khaled Mahmoud  
 <div align="center">
 
-<hr style="border: 1px solid #00FF99; width: 60%;"/>
+<hr style="border: 1px solid #00FF99; width: 65%;"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=50&center=true&vCenter=true&width=1150&lines=🎓+IT+Student+%7C+💻+Future+Software+Engineer;📱+Flutter+%26+Mobile+Developer;🌐+Networking+%26+🐧+Linux+Enthusiast;🧠+Problem+Solver+%7C+🚀+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=38&center=true&vCenter=true&width=900&lines=🎓+IT+Student;💻+Future+Software+Engineer;📱+Flutter+%26+Mobile+Developer;🌐+Networking+%26+🐧+Linux+Enthusiast;🧠+Problem+Solver+%7C+🚀+Always+Building" />
 
-<hr style="border: 1px solid #00FF99; width: 60%;"/>
+<hr style="border: 1px solid #00FF99; width: 65%;"/>
 
 </div>
 
