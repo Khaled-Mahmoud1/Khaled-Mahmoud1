@@ -5,7 +5,7 @@
 
 <hr style="border: 1px solid #00FF99; width: 60%;"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=25&center=true&vCenter=true&width=750&lines=🎓+IT+Student+%7C+💻+Future+Software+Engineer;📱+Flutter+%26+Mobile+Developer;🌐+Networking+%26+🐧+Linux+Enthusiast;🧠+Problem+Solver+%7C+🚀+Always+Building" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=50&center=true&vCenter=true&width=750&lines=🎓+IT+Student+%7C+💻+Future+Software+Engineer;📱+Flutter+%26+Mobile+Developer;🌐+Networking+%26+🐧+Linux+Enthusiast;🧠+Problem+Solver+%7C+🚀+Always+Building" />
 
 <hr style="border: 1px solid #00FF99; width: 60%;"/>
 
