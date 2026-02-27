@@ -54,6 +54,8 @@
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
   <img src="https://skillicons.dev/icons?i=kotlin&theme=dark" />
   <img src="https://skillicons.dev/icons?i=dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" />
 </p>
 
 
