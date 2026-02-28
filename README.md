@@ -83,6 +83,7 @@
   <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" />
   <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" />
   <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" />
   <img src="https://skillicons.dev/icons?i=idea&theme=dark" />
