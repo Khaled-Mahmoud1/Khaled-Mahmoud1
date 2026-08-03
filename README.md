@@ -96,7 +96,7 @@
 
 ## 🚀 GitHub Activity 🚀
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Khaled-Mahmoud1/&theme=ambient-gradient)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Khaled-Mahmoud1&theme=ambient-gradient)](https://git.io/streak-stats)
 
 ---
 
