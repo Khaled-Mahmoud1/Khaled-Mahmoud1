@@ -94,29 +94,6 @@
 
 ---
 
-## 🚀 GitHub Activity 🚀
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Khaled-Mahmoud1&theme=github-dark-blue&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Khaled-Mahmoud1&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-Mahmoud1&layout=compact&theme=github_dark&hide_border=true"
-  />
-</p>
-
-
 # 📈 Contribution Activity
 
 <p align="center">
