@@ -97,12 +97,10 @@
 ## 🚀 GitHub Activity 🚀
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=Khaled-Mahmoud1&theme=github-dark-blue&border_radius=5&card_width=600&card_height=220" 
-      alt="GitHub Streak" 
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=Khaled-Mahmoud1&theme=github-dark-blue"
+    alt="GitHub Streak"
+  />
 </p>
 
 
